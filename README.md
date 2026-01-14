@@ -32,10 +32,12 @@
 
 
 
+<img width="492" height="307" alt="image" src="https://github.com/user-attachments/assets/3a178c67-5490-42ab-a40f-9218910c079e" />
 
 Ссылки:
 
 Исходные данные с Kaggle
 https://www.kaggle.com/code/emineyetm/telco-customer-churn/input?scriptVersionId=112433747
+
 
 
