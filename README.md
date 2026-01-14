@@ -17,13 +17,25 @@
 
 
 
-<img width="210" height="207" alt="image" src="https://github.com/user-attachments/assets/fbf56d70-0691-4abb-a2a5-dd623ee6287e" />
+<img width="210" height="207" alt="image" src="https://github.com/user-attachments/assets/fbf56d70-0691-4abb-a2a5-dd623ee6287e" />   
+
+
+
+
+
+
+
+
+
+<img width="420" height="251" alt="image" src="https://github.com/user-attachments/assets/1684848f-6773-46c3-8369-25aafb6f252f" />
+
 
 
 
 
 Ссылки:
-Дашборд в Power BI 
 
 Исходные данные с Kaggle
+https://www.kaggle.com/code/emineyetm/telco-customer-churn/input?scriptVersionId=112433747
+
 
