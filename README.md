@@ -12,10 +12,18 @@
 4. Ключевые выводы
 
 Результаты:
+
+
+
+
+
 <img width="210" height="207" alt="image" src="https://github.com/user-attachments/assets/fbf56d70-0691-4abb-a2a5-dd623ee6287e" />
+
+
 
 
 Ссылки:
 Дашборд в Power BI 
 
 Исходные данные с Kaggle
+
